@@ -1,0 +1,14 @@
+name: RSocialUI
+version: 2.7.1
+description: Adding Social Account Information
+author: RimVG, wreg-VG #// Delete If You Don't Appreciate the Creator //#
+api: 5.0.0
+main: RimVG\PluginDev\Main
+commands:
+  rcui:
+    description: RSocialUI plugin command GUI created by [ RimVG ]
+    permission: rcui.ui
+permissions:
+  rcui.ui:
+    description: Allow player use cmd
+    default: true
